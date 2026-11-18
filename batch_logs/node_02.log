@@ -1,0 +1,4 @@
+INFO: Node 02 heartbeat OK
+WARN: High memory utilization (78%)
+ERROR: Upstream timeout on shard-2
+INFO: Retry succeeded

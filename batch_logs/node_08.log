@@ -1,0 +1,4 @@
+INFO: Node 08 heartbeat OK
+WARN: High memory utilization (78%)
+ERROR: Upstream timeout on shard-8
+INFO: Retry succeeded
